@@ -1,2 +1,3 @@
-# GM-SYS
-JavaFXML programme to manage Garages for the company
+# Garage Management System (GM-SYS)
+
+This is a JavaFXML programme built with netbeans using sqlite for the database system to manage Garage appointments.
